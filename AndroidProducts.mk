@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_lemonadep.mk
+    $(LOCAL_DIR)/twrp_martini.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_lemonadep-user \
-    twrp_lemonadep-userdebug \
-    twrp_lemonadep-eng
+    twrp_martini-user \
+    twrp_martini-userdebug \
+    twrp_martini-eng
