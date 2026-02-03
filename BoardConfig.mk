@@ -7,7 +7,7 @@
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8350-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/oneplus/lemonadep
+DEVICE_PATH := device/oneplus/martini
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
