@@ -1,5 +1,5 @@
 # All proprietary files from this list, unless pinned and noted otherwise,
-# are from OnePlus 9 Pro (LE2125_11.C.63).
+# are from OnePlus 9 RT ().
 
 # ACDB
 odm/etc/acdbdata/Audio_Parameter_Version.txt
@@ -53,16 +53,16 @@ odm/etc/camera/calibrationOutput_wt.bin
 odm/etc/camera/engineer_camera_config
 odm/etc/camera/settings_fdc.txt
 odm/etc/init/calibrationOutput_wt.rc
-odm/lib64/camera/com.qti.sensor.imx789.lemonade.so
-odm/lib64/camera/com.qti.sensor.ov08a10.lemonade.so
-odm/lib64/camera/com.qti.sensormodule.lemonadep.holitech_gc02m1b.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.qtech_ov08a10.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.semco_imx789.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.semco_imx789_MP.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.sunny_imx766.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.sunny_imx766_MP.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.sunny_imx766_ak7375c.bin
-odm/lib64/camera/com.qti.sensormodule.lemonadep.truly_imx471.bin
+odm/lib64/camera/com.qti.sensor.imx789.martini.so
+odm/lib64/camera/com.qti.sensor.ov08a10.martini.so
+odm/lib64/camera/com.qti.sensormodule.martinip.holitech_gc02m1b.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.qtech_ov08a10.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.semco_imx789.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.semco_imx789_MP.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.sunny_imx766.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.sunny_imx766_MP.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.sunny_imx766_ak7375c.bin
+odm/lib64/camera/com.qti.sensormodule.martinip.truly_imx471.bin
 odm/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin
 odm/lib64/camera/com.qti.tuned.qtech_ov08a10.bin
 odm/lib64/camera/com.qti.tuned.semco_imx789.bin
